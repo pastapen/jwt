@@ -1,0 +1,9 @@
+vendor
+
+# IDE Folder
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
